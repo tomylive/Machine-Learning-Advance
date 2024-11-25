@@ -1,9 +1,6 @@
 # Laporan Proyek Machine Learning
-
-Proyek pertama Dicoding course Machine Learning Terapan ini mendapatkan bintang 4/5 dari reviewer.
-
-![Penilaian Reviewer](https://github.com/user-attachments/assets/3118a1a3-77dd-4e04-81da-85b4b13b496a)
-
+Proyek Pertama Machine Learning Terapan: Predictive Analytics - Tomy Satria Alasi
+Sumber data: pasien-kanker-dan-polusi-udara-hubungan-baru
 ## Daftar Isi
 
 - [Domain Proyek](#domain-proyek)
