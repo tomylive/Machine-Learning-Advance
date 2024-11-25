@@ -1,6 +1,8 @@
-# Laporan Proyek Machine Learning
+# Laporan Machine Learning  Advance - Dicoding
 Proyek Pertama Machine Learning Terapan: Predictive Analytics - Tomy Satria Alasi
-Sumber data: pasien-kanker-dan-polusi-udara-hubungan-baru
+
+
+Sumber data: [pasien-kanker-dan-polusi-udara-hubungan-baru ](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 ## Daftar Isi
 
 - [Domain Proyek](#domain-proyek)
@@ -15,7 +17,7 @@ Sumber data: pasien-kanker-dan-polusi-udara-hubungan-baru
 
 Kanker adalah sekelompok penyakit yang ditandai oleh pertumbuhan yang tidak terkontrol dan penyebaran sel-sel abnormal. Sel kanker dapat menyebar ke bagian lain dari tubuh melalui sistem darah dan limfa. Jika penyebarannya tidak terkendali, dapat mengakibatkan kematian. Kanker dapat mempengaruhi semua orang, mulai dari anak-anak hingga orang dewasa, baik pria maupun wanita. Kanker paru-paru adalah jenis kanker yang paling umum terjadi pada pria.<sup>[[1]](https://repository.unair.ac.id/124051/5/8.%20Cover-Artikel%20The%20Prevalence%20of%20Cancer%20in%20Indonesia.pdf)</sup>
 
-![Ilustrasi-by-KlikDokter](https://github.com/user-attachments/assets/dd331c40-3fb7-44ed-b985-5648492b79c3)
+![Ilustrasi-by-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/03/LungCACXR.PNG)
 
 Kanker paru-paru merupakan salah satu penyebab utama kematian akibat kanker di seluruh dunia. Berdasarkan data dari World Health Organization (WHO) pada tahun 2020, kanker paru-paru menyebabkan 1,80 juta kematian. World Cancer Research Fund melansir statistik kanker paru-paru bahwa Indonesia (men) tercatat memiliki 29 ribu kasus dan menduduki peringkat ke-9 kanker paru terbanyak di dunia pada tahun 2022.<sup>[[2]](https://www.wcrf.org/cancer-trends/lung-cancer-statistics/)</sup> Penelitian yang dipublikasikan pada tahun 2023 berjudul _Lung Cancer in Indonesia_ menyatakan bahwa menurut data dari Kementerian Kesehatan, penyakit tidak menular seperti penyakit kardiovaskular, kanker, dan penyakit paru tidak menular termasuk dalam tiga penyebab utama morbiditas dan mortalitas di Indonesia.<sup>[[3]](https://www.sciencedirect.com/science/article/pii/S1556086423006317)</sup>
 
