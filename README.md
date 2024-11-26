@@ -44,6 +44,8 @@ Kanker paru-paru merupakan salah satu jenis kanker yang memiliki tingkat mortali
 
 Dataset yang digunakan adalah Lung cancer dataset<sup>[[4]](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)</sup> dari Kaggle yang memiliki score usability sempurna yaitu 10.00. Usability Score ini merupakan bagian dari sistem penilaian Kaggle yang memberikan gambaran tentang kualitas dan kemudahan penggunaan dataset. Artinya kita dapat mengharapkan bahwa dataset ini telah melalui proses penilaian ketat dan dianggap sangat sesuai untuk keperluan proyek machine learning dalam kemudahan, efisiensi, dan kualitas data. Dataset ini berisi informasi medis sejumlah 1000 pasien yang mencakup 20 variabel kategorikal.
 
+
+Kumpulan data ini berisi informasi tentang pasien kanker paru-paru, termasuk usia, jenis kelamin, paparan polusi udara, penggunaan alkohol, alergi debu, bahaya pekerjaan, risiko genetik, penyakit paru-paru kronis, pola makan seimbang, obesitas, status merokok, status perokok pasif, nyeri dada, batuk berdarah, tingkat kelelahan, penurunan berat badan, sesak napas, mengi, kesulitan menelan, kuku jari yang terkatup rapat, sering masuk angin, batuk kering, dan mendengkur. Dengan menganalisis data ini, kita dapat memperoleh wawasan tentang apa yang menyebabkan kanker paru-paru dan cara terbaik untuk mengobatinya.
 ### Deskripsi Variabel
 
 | Nama Kolom               | Deskripsi                                                   |
