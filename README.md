@@ -48,26 +48,27 @@ Dataset yang digunakan adalah Lung cancer dataset<sup>[[4]](https://www.kaggle.c
 
 | Nama Kolom               | Deskripsi                                                   |
 | ------------------------ | ----------------------------------------------------------- |
-| Age                      | Usia pasien. (Numerik)                                      |
-| Gender                   | Jenis kelamin pasien. (Kategorikal)                         |
-| Air Pollution            | Tingkat paparan polusi udara pada pasien. (Kategorikal)     |
-| Alcohol use              | Tingkat penggunaan alkohol oleh pasien. (Kategorikal)       |
-| Dust Allergy             | Tingkat alergi debu pada pasien. (Kategorikal)              |
-| OccuPational Hazards     | Tingkat bahaya pekerjaan pada pasien. (Kategorikal)         |
-| Genetic Risk             | Tingkat risiko genetik pada pasien. (Kategorikal)           |
-| chronic Lung Disease     | Tingkat penyakit paru kronis pada pasien. (Kategorikal)     |
-| Balanced Diet            | Tingkat pola makan seimbang pasien. (Kategorikal)           |
-| Obesity                  | Tingkat obesitas pasien. (Kategorikal)                      |
-| Smoking                  | Tingkat merokok oleh pasien. (Kategorikal)                  |
-| Passive Smoker           | Tingkat paparan asap rokok pasif pada pasien. (Kategorikal) |
-| Chest Pain               | Tingkat nyeri dada pada pasien. (Kategorikal)               |
-| Coughing of Blood        | Tingkat batuk berdarah pada pasien. (Kategorikal)           |
-| Fatigue                  | Tingkat kelelahan pada pasien. (Kategorikal)                |
-| Weight Loss              | Tingkat penurunan berat badan pada pasien. (Kategorikal)    |
-| Shortness of Breath      | Tingkat sesak napas pada pasien. (Kategorikal)              |
-| Wheezing                 | Tingkat mengi pada pasien. (Kategorikal)                    |
-| Swallowing Difficulty    | Tingkat kesulitan menelan pada pasien. (Kategorikal)        |
-| Clubbing of Finger Nails | Tingkat pembengkakan ujung jari pada pasien. (Kategorikal)  |
+| Id                       | Id pasien. (object )                                      |
+| Age                      | Usia pasien. (int64 )                                      |
+| Gender                   | Jenis kelamin pasien. (int64 )                         |
+| Air Pollution            | Tingkat paparan polusi udara pada pasien. (int64 )     |
+| Alcohol use              | Tingkat penggunaan alkohol oleh pasien. (int64 )       |
+| Dust Allergy             | Tingkat alergi debu pada pasien. (int64 )              |
+| OccuPational Hazards     | Tingkat bahaya pekerjaan pada pasien. (int64 )         |
+| Genetic Risk             | Tingkat risiko genetik pada pasien. (int64 )           |
+| chronic Lung Disease     | Tingkat penyakit paru kronis pada pasien. (int64 )     |
+| Balanced Diet            | Tingkat pola makan seimbang pasien. (int64 )           |
+| Obesity                  | Tingkat obesitas pasien. (int64 )                      |
+| Smoking                  | Tingkat merokok oleh pasien. (int64 )                  |
+| Passive Smoker           | Tingkat paparan asap rokok pasif pada pasien. (int64 ) |
+| Chest Pain               | Tingkat nyeri dada pada pasien. (int64 )               |
+| Coughing of Blood        | Tingkat batuk berdarah pada pasien. (int64 )           |
+| Fatigue                  | Tingkat kelelahan pada pasien. (int64 )                |
+| Weight Loss              | Tingkat penurunan berat badan pada pasien. (int64 )    |
+| Shortness of Breath      | Tingkat sesak napas pada pasien. (int64 )              |
+| Wheezing                 | Tingkat mengi pada pasien. (int64 )                    |
+| Swallowing Difficulty    | Tingkat kesulitan menelan pada pasien. (int64 )        |
+| Clubbing of Finger Nails | Tingkat pembengkakan ujung jari pada pasien. (int64 )  |
 
 ### Data Visualization
 
